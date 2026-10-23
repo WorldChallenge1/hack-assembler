@@ -1,0 +1,4 @@
+.envrc
+.devbox
+zig-out/
+.zig-cache/
